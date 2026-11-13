@@ -1,3 +1,10 @@
+# Reflection
+# 1. Python is better for automating repetitive tasks, processing large amounts of data, and performing the same steps on multiple files.
+# Excel is easier for quickly viewing data, making charts, and manually organizing or editing information.
+# 2. A business could use an append-mode log to keep track of daily sales transactions.
+# Append mode is useful because it adds each new transaction without deleting previous records, allowing the business to keep a history of its sales.
+
+
 # Exercise 1: Get the file
 
 import csv
